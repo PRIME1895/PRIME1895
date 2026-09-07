@@ -16,21 +16,19 @@
 
 ## 🧠 Who is PRIME1895?
 
-```python
+```txt
 researcher = {
-    "name"       : "Harikrishna Sivanand Iyer",
-    "degree"     : "B.Tech AI & Data Science @ Amrita Vishwa Vidyapeetham",
-    "year"       : "3rd year | CGPA: 8.22 | Graduating 2028",
-    "citizenship": "Australian | Based in India",
-    "published"  : "IEEE ICCCNT 2025 - First Author @ 19",
-    "focus"      : [
-        "Federated Learning Security",
-        "LLM Quantization & Compression",
-        "Agentic AI Evaluation",
-        "Semiconductor Deep Learning",
-        "AI Drug Discovery",
-        "Hallucination Detection"
-    ]
+    name        :  Harikrishna Sivanand Iyer
+    degree      :  B.Tech AI & Data Science @ Amrita Vishwa Vidyapeetham
+    year        :  3rd year | CGPA: 8.22 | Graduating 2028
+    citizenship :  Australian | Based in India
+    published   :  IEEE ICCCNT 2025 | First Author @ 19
+    focus       :  Federated Learning Security
+                   LLM Quantization & Compression
+                   Agentic AI Evaluation
+                   Semiconductor Deep Learning
+                   AI Drug Discovery
+                   Hallucination Detection
 }
 ` ` `
 ```
