@@ -21,7 +21,7 @@ researcher = {
     "name"       : "Harikrishna Sivanand Iyer",
     "degree"     : "B.Tech AI & Data Science @ Amrita Vishwa Vidyapeetham",
     "year"       : "3rd year | CGPA: 8.22 | Graduating 2028",
-    "citizenship": "Australian 🇦🇺 | Based in India 🇮🇳",
+    "citizenship": "Australian | Based in India",
     "published"  : "IEEE ICCCNT 2025 - First Author @ 19",
     "focus"      : [
         "Federated Learning Security",
@@ -32,8 +32,9 @@ researcher = {
         "Hallucination Detection"
     ]
 }
+` ` `
 ```
----
+
 
 > *This account hosts research projects and experimental pipelines.*
 > *Production work and shipped applications live at [@HK2184](https://github.com/HK2184)*
