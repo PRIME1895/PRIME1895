@@ -16,22 +16,44 @@
 
 ## 🧠 Who is PRIME1895?
 
-```txt
-researcher = {
-    name        :  Harikrishna Sivanand Iyer
-    degree      :  B.Tech AI & Data Science @ Amrita Vishwa Vidyapeetham
-    year        :  3rd year | CGPA: 8.22 | Graduating 2028
-    citizenship :  Australian | Based in India
-    published   :  IEEE ICCCNT 2025 | First Author @ 19
-    focus       :  Federated Learning Security
-                   LLM Quantization & Compression
-                   Agentic AI Evaluation
-                   Semiconductor Deep Learning
-                   AI Drug Discovery
-                   Hallucination Detection
-}
-` ` `
-```
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/🎓-Amrita%20Vishwa%20Vidyapeetham-1A56A8?style=flat-square" />
+<br/><sub>B.Tech AI & Data Science</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/📊-CGPA%3A%208.22-1A56A8?style=flat-square" />
+<br/><sub>3rd Year | Graduating 2028</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/🇦🇺-Australian%20Citizen-00843D?style=flat-square" />
+<br/><sub>Based in India</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/📄-IEEE%20First%20Author-CC0000?style=flat-square" />
+<br/><sub>ICCCNT 2025 @ 19</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/🔬-Research%20Account-0D1B2A?style=flat-square" />
+<br/><sub>Experiments & Pipelines</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/🔗-Main%20Profile-181717?style=flat-square&logo=github" />
+<br/><sub><a href="https://github.com/HK2184">github.com/HK2184</a></sub>
+</td>
+</tr>
+</table>
+
+> *"Research is messy. Repos here are experiments, pipelines, and ideas in progress."*
+
+</div>
+
+---
 
 
 > *This account hosts research projects and experimental pipelines.*
